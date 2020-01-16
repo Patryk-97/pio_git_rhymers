@@ -13,3 +13,4 @@ public interface RhymersFactory {
 	public DefaultCountingOutRhymer GetHanoiRhymer();
 
 }
+//Komentarz dla praktykowania CodeReview.
